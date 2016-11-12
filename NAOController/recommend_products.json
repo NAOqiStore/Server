@@ -2,9 +2,17 @@
 	{
 	"lastId":"1000002",
 	"list":[{
-		"title":"NAOController","detail":"ios app,agreat app","avatar":"https://naoqistore.github.io/resources/images/test.png","url":"https://naoqistore.github.io/","storeId":"1000001"
+		"title":"NAOController",
+		"detail":"ios app,agreat app",
+		"avatar":"https://naoqistore.github.io/resources/images/test.png",
+		"url":"https://naoqistore.github.io/",
+		"storeId":"1000001"
 		},{
-		"title":"iPepper","detail":"ios app,agreat app","avatar":"https://naoqistore.github.io/resources/images/test.png","url":"https://naoqistore.github.io/","storeId":"1000002"
+		"title":"iPepper",
+		"detail":"ios app,agreat app",
+		"avatar":"https://naoqistore.github.io/resources/images/test.png",
+		"url":"https://naoqistore.github.io/",
+		"storeId":"1000002"
 		}]
 	}
 }

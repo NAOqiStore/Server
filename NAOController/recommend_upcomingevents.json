@@ -2,11 +2,15 @@
 	{
 	"lastId":"1000001",
 	"list":[{
-		"title":"侍启山",
+		"title":"NAO马拉松编程大赛",
 		"detail":"独立开发者",
 		"avatar":"https://naoqistore.github.io/resources/images/test.png",
+		"timeStr":"2016-11-18",
+		"timeSp":"123456789",
+		"place":"北京上地五街",
+		"hostUnit":"启山科技公司",
 		"url":"https://naoqistore.github.io/",
-		"storeId":"3000001"
+		"eventId":"6000001"
 		}]
 	}
 }
