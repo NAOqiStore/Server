@@ -2,41 +2,15 @@
 	{
 	"lastId":"6000001",
 	"list":[{
-		"title":"NAO机器人创客编程马拉松",
-		"detail":"独立开发者",
+		"title":"测试:NAO机器人比赛",
+		"detail":"NAO机器人比赛",
 		"avatar":"https://naoqistore.github.io/resources/images/naospy_test.png",
 		"mainImage":"https://naoqistore.github.io/resources/images/event_test.jpg",
 		"timeStr":"时间:2015-11-6",
 		"timeSpBegin":"1446480000",
 		"timeSpEnd":"1446739200",
-		"place":"地点:北京洪太创客空间",
-		"hostUnit":"主办单位:上海阿尔德巴兰有限公司",
-		"url":"http://mp.weixin.qq.com/s?__biz=MjM5MDA1NjMwOQ==&mid=400604106&idx=1&sn=ddba4dcd48e08e8ad5227d013024beb6&scene=2&srcid=1106MJ6J8YKW83PZzepOxkel&from=timeline&isappinstalled=0#wechat_redirect/",
-		"eventId":"6000001"
-		},
-		{
-		"title":"NAO机器人创客编程马拉松",
-		"detail":"独立开发者",
-		"avatar":"https://naoqistore.github.io/resources/images/naospy_test.png",
-		"mainImage":"https://naoqistore.github.io/resources/images/event_test.jpg",
-		"timeStr":"时间:2015-11-6",
-		"timeSpBegin":"1478793600",
-		"timeSpEnd":"1478966400",
-		"place":"地点:北京洪太创客空间",
-		"hostUnit":"主办单位:上海阿尔德巴兰有限公司",
-		"url":"http://mp.weixin.qq.com/s?__biz=MjM5MDA1NjMwOQ==&mid=400604106&idx=1&sn=ddba4dcd48e08e8ad5227d013024beb6&scene=2&srcid=1106MJ6J8YKW83PZzepOxkel&from=timeline&isappinstalled=0#wechat_redirect/",
-		"eventId":"6000001"
-		},
-		{
-		"title":"NAO机器人创客编程马拉松",
-		"detail":"独立开发者",
-		"avatar":"https://naoqistore.github.io/resources/images/naospy_test.png",
-		"mainImage":"https://naoqistore.github.io/resources/images/event_test.jpg",
-		"timeStr":"时间:2015-11-6",
-		"timeSpBegin":"1478966400",
-		"timeSpEnd":"1479398400",
-		"place":"地点:北京洪太创客空间",
-		"hostUnit":"主办单位:上海阿尔德巴兰有限公司",
+		"place":"地点:北京某某某地点",
+		"hostUnit":"主办单位:某某某公司",
 		"url":"http://mp.weixin.qq.com/s?__biz=MjM5MDA1NjMwOQ==&mid=400604106&idx=1&sn=ddba4dcd48e08e8ad5227d013024beb6&scene=2&srcid=1106MJ6J8YKW83PZzepOxkel&from=timeline&isappinstalled=0#wechat_redirect/",
 		"eventId":"6000001"
 		}
