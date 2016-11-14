@@ -2,14 +2,14 @@
 	{
 	"lastId":"1000002",
 	"list":[{
-		"title":"NAOController",
-		"detail":"ios app,agreat app",
-		"avatar":"https://naoqistore.github.io/resources/images/test.png",
+		"title":"NAO Spy",
+		"detail":"一款iOS平台的app，可以更加方便的控制机器人，实时获取机器人的摄像头数据。",
+		"avatar":"https://naoqistore.github.io/resources/images/naospy_test.png",
 		"url":"https://naoqistore.github.io/",
 		"storeId":"1000001"
 		},{
 		"title":"iPepper",
-		"detail":"ios app,agreat app",
+		"detail":"一款iOS平台的app，可以同时控制多台pepper机器人，实现同步跳舞等功能",
 		"avatar":"https://naoqistore.github.io/resources/images/test.png",
 		"url":"https://naoqistore.github.io/",
 		"storeId":"1000002"
